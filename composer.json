@@ -1,0 +1,9 @@
+{
+  "name": "uwjinc/unitedwaysjapaninc",
+  "description": "PHP and HTML project using PHPMailer",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "phpmailer/phpmailer": "^6.9"
+  }
+}
